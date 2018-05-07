@@ -8,6 +8,7 @@ function happyHolidays() {
 function happyHolidaysTo(name) {
   return `"Happy holiday," + ${name} + "!"`
 }
+console.log happyHolidaysTo()
 
 function happyHolidayTo(holiday, name) {
   return `"Happy ${holiday} + ${name} +" !"`
