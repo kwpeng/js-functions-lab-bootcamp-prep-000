@@ -10,4 +10,4 @@ function happyHolidaysTo(name) {
   
 }
 
-console.log happyHolidaysTo (abc)
+console.log happyHolidaysTo(abc)
