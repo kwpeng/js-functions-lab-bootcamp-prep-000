@@ -9,4 +9,4 @@ function happyHolidaysTo(name) {
   return `Happy holidays, ${name}!`;
 }
 
-console.log (happyHolidaysTo(abc))
+console.log (happyHolidaysTo("abc"))
