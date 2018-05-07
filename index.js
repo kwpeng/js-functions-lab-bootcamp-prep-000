@@ -19,4 +19,4 @@ function holidayCountdown(holiday, days) {
 
 
 
-console.log(holidayCountdown("abc", "kdp"))
+console.log(holidayCountdown("abc", 12))
