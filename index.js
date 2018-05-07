@@ -13,6 +13,6 @@ function happyHolidayTo(holiday, name) {
   return `"Happy ${holiday} + ${name} +" !"`
 }
 
-function holidayCountdown(happyHolidaysTo(),happyHolidayTo()) {
-  return `"It's ${," ${name}!`
+function holidayCountdown(holiday, nakme) {
+  return `"It's + ${holiday} + ${name} +"!"`
 }
